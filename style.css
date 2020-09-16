@@ -100,4 +100,8 @@
     padding: 20px;
 
   }
+
+  footer a:hover {
+    color: purple;
+  }
   
