@@ -77,11 +77,12 @@
   nav ul ul li a i{
     margin-left: 45px;
   }
-  section{
+  .showcase{
     background: url(./images/pexels-bongkarn-thanyakij-3787308.jpg);
     background-position: center;
     background-size: cover;
     height: 85vh;
+    min-width: 100%;
   }
 
   footer {
